@@ -2,8 +2,8 @@
 - 👀 I’m interested in Aritificial intelligene and Designing
 - 🌱 I’m currently learning Ai&Ml
 - 💞️ I’m looking to collaborate on Ai&ML,Analytics,Desiging
-- 📫 How to reach me @bharathmandali0007@gmail.com
-- 😄 Pronouns: ...
+- 📫 How to reach me bharathmandali0007@gmail.com
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
